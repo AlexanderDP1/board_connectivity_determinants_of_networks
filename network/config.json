@@ -8,13 +8,13 @@
     "text": ""
   },
   "text": {
-    "more": "network",
-    "intro": "Network of the Belgian board of directors",
+    "more": "",
+    "intro": "The full network of boards of directors in Belgium. We visualized the 250 largest companies of 14 different sectors in Belgium. \nThe size of the nodes represents the degree of the node. Thus the more interlocks a board has the bigger its node. \nEdges occur when 2 boards are interlocked. This means they share at least 1 director on the board of directors. \nThe colors are used to group companies into different clusters. \nYou can click on a node to see al of its characteristics and direct interlocks or hover over a node to see its name.",
     "title": ""
   },
   "legend": {
     "edgeLabel": "Interlocks",
-    "colorLabel": "subgroups",
+    "colorLabel": "Hubs, clusters of relatively stronger connected boards",
     "nodeLabel": "Boards"
   },
   "features": {
@@ -24,7 +24,7 @@
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": "Modularity Class"
+    "imageAttribute": false
   },
   "sigma": {
     "drawingProperties": {
